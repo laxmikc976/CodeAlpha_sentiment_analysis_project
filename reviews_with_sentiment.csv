@@ -1,0 +1,11 @@
+review_id,review_text,date,Sentiment,Emotions
+1,I absolutely love this product! It works perfectly.,2023-01-01,Positive,"{'joy': 1, 'positive': 1}"
+2,Worst experience ever. Totally disappointed.,2023-01-05,Negative,"{'anger': 1, 'disgust': 1, 'negative': 1, 'sadness': 1}"
+3,"The product is okay, nothing special.",2023-01-10,Negative,"{'joy': 1, 'positive': 1}"
+4,This phone has a great camera but poor battery life.,2023-01-15,Negative,"{'anger': 1, 'negative': 1}"
+5,I am scared about the future of this company.,2023-01-20,Negative,{}
+6,The new update is amazing and very helpful.,2023-01-25,Positive,"{'joy': 1, 'positive': 1, 'trust': 1}"
+7,Customer service was terrible and rude.,2023-02-01,Negative,"{'anger': 1, 'disgust': 1, 'fear': 1, 'negative': 1, 'sadness': 1}"
+8,Fast delivery and great packaging!,2023-02-05,Positive,"{'anticipation': 1, 'positive': 1}"
+9,The app keeps crashing again and again.,2023-02-10,Neutral,{}
+10,Good value for money. I'm happy with the purchase.,2023-02-15,Positive,"{'anger': 1, 'anticipation': 2, 'joy': 2, 'positive': 2, 'surprise': 1, 'trust': 2}"
